@@ -52,6 +52,8 @@ https://lab.magiconch.com/nbnhhsh/
 
 [PowerShell 脚本](https://github.com/KiyanYang/nbnhhsh-powershell) @KiyanYang
 
+[Flow Launcher 插件](https://github.com/dragonish/Flow.Launcher.Plugin.Nbnhhsh) @dragonish
+
 ## GreasyFork
 [https://greasyfork.org/scripts/398555](https://greasyfork.org/zh-CN/scripts/398555)
 
